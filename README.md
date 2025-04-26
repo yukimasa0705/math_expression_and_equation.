@@ -54,13 +54,6 @@
 
 ---
 
-## 📝 作業日誌
-[▶ 作業日誌はこちら（dailyReport フォルダ）](https://github.com/yukimasa0705/math_expression_and_equation./tree/main/dailyReport)
-
-進捗やアイデアを記録・管理してる場所やで！
-
----
-
 ## ✅ ゴール
 - 代数操作をPythonコードで自在に行えること  
 - ノートの中で「紙でやるよりラク！」と感じることが目標や！
