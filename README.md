@@ -41,6 +41,9 @@
 - グラフ的交点との関連
 
 ---
+ [[作業日誌リンク]](https://github.com/yukimasa0705/math_expression_and_equation./tree/main/dailyReport))
+
+ここをクリックすれば、プロジェクトの進行や日々の作業メモを簡単に確認できます。進捗やアイデアを管理するために活用しています。
 
 ### ✅ ゴール
 - 代数操作をPythonコードで自在に行えること
