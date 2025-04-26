@@ -9,6 +9,7 @@
 
 - [式の作成と変形 notebook 📓](https://github.com/yukimasa0705/math_expression_and_equation./blob/main/expression_and_equation.ipynb)
 - [方程式の解法 notebook 📓](https://github.com/yukimasa0705/math_expression_and_equation./blob/main/solving_equations.ipynb)
+- [式の変形と整理 notebook 📓](https://github.com/yukimasa0705/math_expression_and_equation./blob/main/math_expression_rearrangement.ipynb)
 
 ---
 
